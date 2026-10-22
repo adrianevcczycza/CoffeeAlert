@@ -1,0 +1,8 @@
+.pio/
+.pio-core/
+.tools/
+__pycache__/
+node_modules/
+.browser-check/
+.browser-test/
+.browser-scene-test/
